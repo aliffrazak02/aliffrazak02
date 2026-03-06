@@ -7,7 +7,7 @@
 |---|---|
 | Pacman Game | https://aliffrazak02.github.io/pacman-game/ |
 | Flappy Bird | https://aliffrazak02.github.io/flappy-bird/ |
-| Whack-a-Mole | https://github.com/aliffrazak02/whack-a-mole |
+| Whack-a-Mole | https://aliffrazak02.github.io/whack-a-mole/ |
 
 ### Personal Projects
 | Project | Link (Repo only) |
