@@ -2,13 +2,6 @@
 
 ## 🚀 Projects
 
-### Deployed Projects (Experimental JS Games)
-| Project | Link (Live) |
-|---|---|
-| Pacman Game | https://aliffrazak02.github.io/pacman-game/ |
-| Flappy Bird | https://aliffrazak02.github.io/flappy-bird/ |
-| Whack-a-Mole | https://aliffrazak02.github.io/whack-a-mole/ |
-
 ### Personal Projects
 | Project | Link (Repo only) |
 |---|---|
@@ -23,6 +16,13 @@
 |---|---|
 | Capstone Project Team 4 | https://github.com/COSC-499-W2025/capstone-project-team-4 |
 | Job Portal | https://github.com/aliffrazak02/job-portal |
+
+### Deployed Projects (Experimental JS Games)
+| Project | Link (Live on GitHub pages) |
+|---|---|
+| Pacman Game | https://aliffrazak02.github.io/pacman-game/ |
+| Flappy Bird | https://aliffrazak02.github.io/flappy-bird/ |
+| Whack-a-Mole | https://aliffrazak02.github.io/whack-a-mole/ |
 
 ## 📚 Learning
 - Currently exploring **backend web development** and **data analysis**
