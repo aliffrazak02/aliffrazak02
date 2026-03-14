@@ -17,7 +17,7 @@
 | Basketball EDA | https://github.com/aliffrazak02/basketball-eda |
 | Login / Register | https://github.com/aliffrazak02/login-register |
 
-### Deployed Projects (Experimental JS Games)
+### Experimental JS Games
 | Project | Link (Live on GitHub pages) |
 |---|---|
 | Pacman Game | https://aliffrazak02.github.io/pacman-game/ |
