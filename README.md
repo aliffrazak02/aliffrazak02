@@ -5,7 +5,7 @@
 ### University Projects
 | Project | Link (Repo only)|
 |---|---|
-| Capstone Project Team 4 | https://github.com/COSC-499-W2025/capstone-project-team-4 |
+| Mining Digital Artifacts | https://github.com/COSC-499-W2025/capstone-project-team-4 |
 | Job Portal | https://github.com/aliffrazak02/job-portal |
 
 ### Personal Projects
