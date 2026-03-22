@@ -7,7 +7,6 @@
 |---|---|
 | Mining Digital Artifacts | https://github.com/COSC-499-W2025/capstone-project-team-4 |
 | Job Portal | https://github.com/aliffrazak02/job-portal |
-| Software Developer Salary Analysis | https://github.com/aliffrazak02/salary-prediction |
 
 ### Personal Projects
 | Project | Link (Repo only) |
@@ -17,6 +16,7 @@
 | DNA Nucleotide Count | https://github.com/aliffrazak02/dna-nucleotide-count |
 | Basketball EDA | https://github.com/aliffrazak02/basketball-eda |
 | Login / Register | https://github.com/aliffrazak02/login-register |
+| Software Developer Salary Analysis | https://github.com/aliffrazak02/salary-prediction |
 
 ### Experimental JS Games
 | Project | Link (Live on GitHub pages) |
